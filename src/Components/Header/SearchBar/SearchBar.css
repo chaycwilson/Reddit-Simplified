@@ -1,0 +1,24 @@
+.searchBar {
+    border: none;
+    flex-wrap: nowrap;
+    width: 15%;
+    min-width: 250px;
+    min-height: 29px;
+    padding-left: 15px;
+    border-radius: 30px;
+}
+
+.searchBar:focus {
+    
+    border-color: #FF4300;
+}
+
+.searchBar input {
+    color: lightslategray;
+}
+
+/* @media  only screen (max-width:) {
+    
+} */
+
+
